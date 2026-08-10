@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-PDF 文字替换工具 — 命令行入口
+PDF 文字替换工具 — 命令行入口 
 
 用法:
   python main.py                            # 使用内置 demo 替换

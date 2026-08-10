@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-PDF 文字替换工具 — 核心模块
+PDF 文字替换工具 — 核心模块 
 
 基于 PyMuPDF 实现，核心逻辑为"先擦后写"：
   1. page.search_for(text)   → 定位旧文字位置
