@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+批量邀请函/
+*.pdf
+!example_input.pdf

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF文字替换"
+  short_description: "按页替换PDF文字内容并尽量保留原字体字号颜色和位置"
+  default_prompt: "Use $pdf-text-replacer to replace text on a specific PDF page while preserving the original font style."
